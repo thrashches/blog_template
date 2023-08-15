@@ -82,7 +82,7 @@
 
 .btn-up {
     all: unset;
-    background-image: url('/assets/img/svg/up.svg');
+    background-image: url('../img/svg/up.svg');
     background-size: contain;
     height: 42px;
     width: 42px;
@@ -100,7 +100,7 @@
     display: inline-block;
     position: relative;
     top: 2px;
-    background-image: url('/assets/img/svg/down-circle.svg');
+    background-image: url('../img/svg/down-circle.svg');
     background-size: contain;
     height: 16px;
     width: 16px;
